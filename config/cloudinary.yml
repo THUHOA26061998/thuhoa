@@ -1,0 +1,19 @@
+---
+development:
+  cloud_name: tinh0903
+  api_key: '588377256416575'
+  api_secret: G17WKSs63vMgGC1xEFIX76yJ33I
+  enhance_image_tag: true
+  static_image_support: false
+production:
+  cloud_name: tinh0903
+  api_key: '588377256416575'
+  api_secret: G17WKSs63vMgGC1xEFIX76yJ33I
+  enhance_image_tag: true
+  static_image_support: true
+test:
+  cloud_name: tinh0903
+  api_key: '588377256416575'
+  api_secret: G17WKSs63vMgGC1xEFIX76yJ33I
+  enhance_image_tag: true
+  static_image_support: false

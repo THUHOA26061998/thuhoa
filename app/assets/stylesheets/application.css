@@ -14,7 +14,7 @@
  *= require_self
  */
  body {
-     padding-top: 100px;
+   padding-top: 100px; 
      
  }
 footer {
@@ -28,4 +28,9 @@ table, td, th {
 th {
     border-bottom: 1px solid #DDD;
     
+}
+.navbar {
+  min-height: 38px;
+  background-color: #f55e55 !important;
+  background-image: none !important;
 }
